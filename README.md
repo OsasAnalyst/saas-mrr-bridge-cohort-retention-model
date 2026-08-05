@@ -70,6 +70,7 @@ saas-mrr-bridge-cohort-retention-model/
 ## Contact
 
 Osaretin Idiagbonmwen, FP&A Analyst (CA, AAT)
+
 idiagbonmwenosaretin@gmail.com
 
 [linkedin.com/in/osaretin-idiagbonmwen-33ab85339](https://www.linkedin.com/in/osaretin-idiagbonmwen-33ab85339/)
