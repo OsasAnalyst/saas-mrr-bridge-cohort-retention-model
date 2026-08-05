@@ -1,6 +1,6 @@
 # SaaS Revenue Bridge & Retention Analysis
 
-**Meridian Cloud Solutions** — portfolio case study using synthetically generated subscription data.
+**Meridian Cloud Solutions** - portfolio case study using synthetically generated subscription data.
 
 A complete FP&A workflow that builds a monthly revenue bridge, tracks cohort retention, and translates the results into a leadership-facing deck and memo.
 
@@ -69,6 +69,7 @@ saas-mrr-bridge-cohort-retention-model/
 
 ## Contact
 
-Osaretin Idiagbonmwen, FP&A Analyst (ACA, ICAN)
+Osaretin Idiagbonmwen, FP&A Analyst (CA, AAT)
 idiagbonmwenosaretin@gmail.com
+
 [linkedin.com/in/osaretin-idiagbonmwen-33ab85339](https://www.linkedin.com/in/osaretin-idiagbonmwen-33ab85339/)
